@@ -99,7 +99,3 @@ https://www.linkedin.com/company/efabless-com
 * UC Berkeley - OpenLANE Lab - CS 250 Fall 2020 \
 https://inst.eecs.berkeley.edu/~cs250/fa20/ \
 https://inst.eecs.berkeley.edu/~cs250/fa20/labs/lab1/ 
-
-## DARPA Public Presentation about Open Source EDA 
-Video: https://ef.link/sYoCU \
-Slides: https://ef.link/-EcVI
