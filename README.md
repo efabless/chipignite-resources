@@ -13,12 +13,12 @@ https://join.skywater.tools
 * [Create Free Silicon Chips Courtesy of Google, SkyWater, and Efabless!](https://ef.link/GmSFT)
 
 ### Other Articles \ 
-https://ef.link/GUAxX \
-https://ef.link/yML5f \
-https://ef.link/JOlP9 \
-https://ef.link/SbTsr \
-https://ef.link/78ajq \
-https://ef.link/VlLNt
+* https://ef.link/GUAxX \
+* https://ef.link/yML5f \
+* https://ef.link/JOlP9 \
+* https://ef.link/SbTsr \
+* https://ef.link/78ajq \
+* https://ef.link/VlLNt
 
 ## Open Source MPW Test SoC - “Caravel"
 
@@ -26,14 +26,15 @@ https://ef.link/VlLNt
 * [Full Open Source RTL2GDS Compiler](https://github.com/efabless/openlane)
 * [Open Source Manufacturable 130nm PDK](https://github.com/google/skywater-pdk)
 
+## Community designs and tools
+
+* https://www.vlsisystemdesign.com/ip/
+
 ## Jumpstarter Videos
 1) Open MPW Submission and Caravel Walk-thru -- [video](https://youtu.be/gsbAk2fzmz8)
 2) Caravel User Project Features -- [video](https://youtu.be/zJhnmilXGPo)
 3) Aboard Caravel -- [video](https://youtu.be/9QV8SDelURk)
 4) Things to Clarify About Caravel -- [video](https://youtu.be/-LZ522mxXMw)
-
-https://www.vlsisystemdesign.com/ip/
-
 
 ## Conferences
 * [ICCAD 2020- NOV 2-5](https://iccad.com/event_details?id=305-8-D)
@@ -41,7 +42,6 @@ https://www.vlsisystemdesign.com/ip/
 * [VLSI SoC Conference 2020](https://ef.link/KLO5s)
 
 ## FOSSi Foundation Dialup Talk Series
-
 [Free and Open Source Silicon and EDA tools](https://fossi-foundation.org/dial-up)
 
 ### Tim Ansell - Google Kick-off Presentation of Open Source Foundry 
@@ -86,6 +86,6 @@ https://www.linkedin.com/company/efabless-com
 https://inst.eecs.berkeley.edu/~cs250/fa20/ \
 https://inst.eecs.berkeley.edu/~cs250/fa20/labs/lab1/ 
 
-## DARPA Public Presentation about Open Source EDA \
+## DARPA Public Presentation about Open Source EDA 
 Video: https://ef.link/sYoCU \
 Slides: https://ef.link/-EcVI
