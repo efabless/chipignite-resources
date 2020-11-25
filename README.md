@@ -23,7 +23,7 @@ https://join.skywater.tools
 ## Open Source MPW Test SoC - “Caravel"
 
 * [Open Source Test Harness - Caravel](https://github.com/efabless/caravel)
-* [Full Open Source RTL2GDS Compiler](https://github.com/efabless/openlane)
+* [OpenLane - Full Open Source RTL2GDS Compiler](https://github.com/efabless/openlane)
 * [Open Source Manufacturable 130nm PDK](https://github.com/google/skywater-pdk)
 
 ## Community designs and tools
