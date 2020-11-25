@@ -12,12 +12,12 @@ https://join.skywater.tools
 * [Efabless - Open Source MPW Shuttle Program](https://ef.link/4WaIo)
 * [Create Free Silicon Chips Courtesy of Google, SkyWater, and Efabless!](https://ef.link/GmSFT)
 
-### Other Articles \ 
-* https://ef.link/GUAxX \
-* https://ef.link/yML5f \
-* https://ef.link/JOlP9 \
-* https://ef.link/SbTsr \
-* https://ef.link/78ajq \
+### Other Articles 
+* https://ef.link/GUAxX 
+* https://ef.link/yML5f 
+* https://ef.link/JOlP9 
+* https://ef.link/SbTsr 
+* https://ef.link/78ajq 
 * https://ef.link/VlLNt
 
 ## Open Source MPW Test SoC - “Caravel"
@@ -44,13 +44,10 @@ https://join.skywater.tools
 ## FOSSi Foundation Dialup Talk Series
 [Free and Open Source Silicon and EDA tools](https://fossi-foundation.org/dial-up)
 
-  #### Fully open source manufacturable PDK for a 130nm process
-   Tim Ansell - Google -  Kick-off Presentation of Open Source Foundry 
+#### Fully open source manufacturable PDK for a 130nm process - Tim Ansell - Google -  Kick-off Presentation of Open Source Foundry 
   * Video: https://youtu.be/EczW2IWdnOM  
   * Slides: https://ef.link/5sB6b (GDOC)
-
-  #### The striVe RISC-V SoC Family on SkyWater 130nm Apache 2.0-Licensed Software to Silicon 
-   Mohamed Kassem - efabless 
+#### The striVe RISC-V SoC Family on SkyWater 130nm Apache 2.0-Licensed Software to Silicon - Mohamed Kassem - efabless 
   * Video:  https://youtu.be/HvWveK2fZt0 
   * Slides:  https://ef.link/fossi-pptx (PPTX) 
   * Slides:  https://ef.link/fossi-pdf  (PDF) 
