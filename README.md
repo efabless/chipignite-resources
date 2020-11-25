@@ -5,9 +5,9 @@
 
 - [Join the community](#Join-the-community)
 - [Miscellaneous News Articles](#Miscellaneous-News-Articles)
-- [Open Source MPW Test SoC - “Caravel"](#Open-Source-MPW-Test-SoC---“Caravel")
+- [Open Source MPW Test SoC - Caravel](#Open-Source-MPW-Test-SoC---Caravel)
 - [Community designs and tools](#Community-designs-and-tools)
-  - [Useful Repos](#Repos)
+  - [Useful Repos](#Useful-Repos)
 - [Jumpstarter Videos](#Jumpstarter-Videos)
 - [Conferences](#Conferences)
 - [FOSSi Foundation Dialup Talk Series](#FOSSi-Foundation-Dialup-Talk-Series)
@@ -17,7 +17,6 @@
 - [Signup here and we'll send you an invite]( https://join.skywater.tools)
 
 ## Miscellaneous News Articles
-
 - [Open Source ASICs Take a Giant Leap Forward with the First Ever Open Foundry PDK](https://ef.link/sWXY4)
 - [Google Partners with SkyWater and Efabless to Enable Open Source Manufacturing of Custom ASICs](https://ef.link/TJLAA)
 - [Open Source MPW Program - Skywater Technology](https://ef.link/b00FP)
@@ -32,7 +31,7 @@
 - https://ef.link/78ajq 
 - https://ef.link/VlLNt
 
-## Open Source MPW Test SoC - “Caravel"
+## Open Source MPW Test SoC - Caravel
 
 * [Open Source Test Harness - Caravel](https://github.com/efabless/caravel)
 * [OpenLane - Full Open Source RTL2GDS Compiler](https://github.com/efabless/openlane)
@@ -42,7 +41,7 @@
 
 * [VLSI System Design IP](https://www.vlsisystemdesign.com/ip)
 
-## Repos (Thanks to pepijndevos)
+## Useful Repos (Thanks to pepijndevos)
 * https://github.com/pepijndevos/sky130-experiments
 * https://github.com/bluecmd/learn-sky130/
 * https://github.com/xorbit/sky130-power-blocks/
