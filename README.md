@@ -12,22 +12,19 @@ https://join.skywater.tools
 * [Efabless - Open Source MPW Shuttle Program](https://ef.link/4WaIo)
 * [Create Free Silicon Chips Courtesy of Google, SkyWater, and Efabless!](https://ef.link/GmSFT)
 
-Other Articles
-https://ef.link/GUAxX
-https://ef.link/yML5f
-https://ef.link/JOlP9
-https://ef.link/SbTsr
-https://ef.link/78ajq
+### Other Articles \ 
+https://ef.link/GUAxX \
+https://ef.link/yML5f \
+https://ef.link/JOlP9 \
+https://ef.link/SbTsr \
+https://ef.link/78ajq \
 https://ef.link/VlLNt
 
 ## Open Source MPW Test SoC - “Caravel"
 
-* Open Source Test Harness - Caravel
-https://github.com/efabless/caravel
-* Full Open Source RTL2GDS Compiler
-https://github.com/efabless/openlane
-* Open Source Manufacturable 130nm PDK
-https://github.com/google/skywater-pdk
+* [Open Source Test Harness - Caravel[(https://github.com/efabless/caravel)
+* [Full Open Source RTL2GDS Compiler](https://github.com/efabless/openlane)
+* [Open Source Manufacturable 130nm PDK](https://github.com/google/skywater-pdk)
 
 ## Jumpstarter Videos
 1) Open MPW Submission and Caravel Walk-thru -- [video](https://youtu.be/gsbAk2fzmz8)
