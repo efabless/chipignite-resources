@@ -28,7 +28,7 @@ https://join.skywater.tools
 
 ## Community designs and tools
 
-* https://www.vlsisystemdesign.com/ip/
+* [VLSI System Design IP](https://www.vlsisystemdesign.com/ip)
 
 ## Jumpstarter Videos
 1) Open MPW Submission and Caravel Walk-thru -- [video](https://youtu.be/gsbAk2fzmz8)
@@ -44,17 +44,16 @@ https://join.skywater.tools
 ## FOSSi Foundation Dialup Talk Series
 [Free and Open Source Silicon and EDA tools](https://fossi-foundation.org/dial-up)
 
-### Tim Ansell - Google Kick-off Presentation of Open Source Foundry 
-Fully open source manufacturable PDK for a 130nm process \
-Video: https://youtu.be/EczW2IWdnOM  \
-Slides: https://ef.link/5sB6b (GDOC)
+  #### Fully open source manufacturable PDK for a 130nm process - Tim Ansell 
+  * Google Kick-off Presentation of Open Source Foundry 
+  * Video: https://youtu.be/EczW2IWdnOM  
+  * Slides: https://ef.link/5sB6b (GDOC)
 
-### Mohamed Kassem - efabless’ Presentation
-The striVe RISC-V SoC Family on SkyWater 130nm\
-Apache 2.0-Licensed Software to Silicon\
-Video:  https://youtu.be/HvWveK2fZt0 \
-Slides:  https://ef.link/fossi-pptx (PPTX) \
-Slides:  https://ef.link/fossi-pdf  (PDF) 
+### The striVe RISC-V SoC Family on SkyWater 130nm Apache 2.0-Licensed Software to Silicon 
+   Mohamed Kassem - efabless 
+* Video:  https://youtu.be/HvWveK2fZt0 
+* Slides:  https://ef.link/fossi-pptx (PPTX) 
+* Slides:  https://ef.link/fossi-pdf  (PDF) 
 
 ### Mohamed Shalan - efabless’ Presentation 
 OpenLane, A Digital ASIC Flow for SkyWater 130nm Open PDK \
@@ -81,7 +80,6 @@ https://www.linkedin.com/in/mike-wishart-81480612/detail/recent-activity/shares/
 https://www.linkedin.com/company/efabless-com
 
 ## University Courses
-
 * UC Berkeley - OpenLANE Lab - CS 250 Fall 2020 \
 https://inst.eecs.berkeley.edu/~cs250/fa20/ \
 https://inst.eecs.berkeley.edu/~cs250/fa20/labs/lab1/ 
