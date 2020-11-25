@@ -1,1 +1,94 @@
-# skywater-pdk-central
+# skywater-pdk-central (Work In Progress)
+
+
+## Join the community
+https://join.skywater.tools
+
+## Miscellaneous News Articles
+
+* [Open Source ASICs Take a Giant Leap Forward with the First Ever Open Foundry PDK](https://ef.link/sWXY4)
+* [Google Partners with SkyWater and Efabless to Enable Open Source Manufacturing of Custom ASICs](https://ef.link/TJLAA)
+* [Open Source MPW Program - Skywater Technology](https://ef.link/b00FP)
+* [Efabless - Open Source MPW Shuttle Program](https://ef.link/4WaIo)
+* [Create Free Silicon Chips Courtesy of Google, SkyWater, and Efabless!](https://ef.link/GmSFT)
+
+Other Articles
+https://ef.link/GUAxX
+https://ef.link/yML5f
+https://ef.link/JOlP9
+https://ef.link/SbTsr
+https://ef.link/78ajq
+https://ef.link/VlLNt
+
+## Open Source MPW Test SoC - “Caravel"
+
+* Open Source Test Harness - Caravel
+https://github.com/efabless/caravel
+* Full Open Source RTL2GDS Compiler
+https://github.com/efabless/openlane
+* Open Source Manufacturable 130nm PDK
+https://github.com/google/skywater-pdk
+
+## Jumpstarter Videos
+1) Open MPW Submission and Caravel Walk-thru -- [video](https://youtu.be/gsbAk2fzmz8)
+2) Caravel User Project Features -- [video](https://youtu.be/zJhnmilXGPo)
+3) Aboard Caravel -- [video](https://youtu.be/9QV8SDelURk)
+4) Things to Clarify About Caravel -- [video](https://youtu.be/-LZ522mxXMw)
+
+https://www.vlsisystemdesign.com/ip/
+
+
+## Conferences
+* [ICCAD 2020- NOV 2-5](https://iccad.com/event_details?id=305-8-D)
+* [WOSET - Open Source EDA](https://woset-workshop.github.io/WOSET2020.html)
+* [VLSI SoC Conference 2020](https://ef.link/KLO5s)
+
+## FOSSi Foundation Dialup Talk Series
+
+[Free and Open Source Silicon and EDA tools](https://fossi-foundation.org/dial-up)
+
+### Tim Ansell - Google Kick-off Presentation of Open Source Foundry 
+Fully open source manufacturable PDK for a 130nm process \
+Video: https://youtu.be/EczW2IWdnOM  \
+Slides: https://ef.link/5sB6b (GDOC)
+
+### Mohamed Kassem - efabless’ Presentation
+The striVe RISC-V SoC Family on SkyWater 130nm\
+Apache 2.0-Licensed Software to Silicon\
+Video:  https://youtu.be/HvWveK2fZt0 \
+Slides:  https://ef.link/fossi-pptx (PPTX) \
+Slides:  https://ef.link/fossi-pdf  (PDF) 
+
+### Mohamed Shalan - efabless’ Presentation 
+OpenLane, A Digital ASIC Flow for SkyWater 130nm Open PDK \
+Video: https://youtu.be/Vhyv0eq_mLU \
+Slides: https://ef.link/cygME (PDF) 
+
+### James Stine -  OSU Presentation 
+Designing new 130nm cells for SkyWater 130nm \
+Video: https://youtu.be/Svus4uQ_CAA \
+Slides: https://ef.link/uUArY 
+
+### Matt Guthaus - UCSC Presentation 
+OpenRAM on SkyWater 130nm \
+Video: https://youtu.be/9Lw83kFtnc4 \
+Slides: https://ef.link/edstV 
+
+### The Amp Hour Podcast
+Fabless Chip Design with Mohamed Kassem \
+Podcast: https://ef.link/amp-hour 
+
+## LinkedIn Posts
+https://www.linkedin.com/in/mkkassem/detail/recent-activity/shares/ \
+https://www.linkedin.com/in/mike-wishart-81480612/detail/recent-activity/shares/ \
+https://www.linkedin.com/company/efabless-com
+
+## University Courses
+
+* UC Berkeley - OpenLANE Lab - CS 250 Fall 2020 \
+https://inst.eecs.berkeley.edu/~cs250/fa20/ \
+https://inst.eecs.berkeley.edu/~cs250/fa20/labs/lab1/ 
+
+## DARPA Public Presentation about Open Source EDA \
+Video: https://ef.link/sYoCU \
+Slides: https://ef.link/-EcVI
