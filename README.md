@@ -10,10 +10,11 @@
 - [Community designs and tools](#Community-designs-and-tools)
   - [Useful Repositories](#Useful-Repositories)
 - [Jumpstarter Videos](#Jumpstarter-Videos)
-- [Conferences and Workshops](#Conferences and Workshops)
+- [Conferences and Workshops](#Conferences-and-Workshops)
 - [FOSSi Foundation Dialup Talk Series](#FOSSi-Foundation-Dialup-Talk-Series)
-- [University Courses and activities](#University-Courses-and-Activities)
 - [Podcasts](#Podcasts)
+- [University Courses and activities](#University-Courses-and-Activities)
+
 
 ## Join the community
 - [Signup here and we'll send you an invite]( https://join.skywater.tools)
