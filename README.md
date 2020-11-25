@@ -5,11 +5,13 @@
 
 - [Join the community](#Join-the-community)
 - [Miscellaneous News Articles](#Miscellaneous-News-Articles)
-- [Open Source MPW Test SoC - “Caravel](#Open-Source-MPW-Test-SoC---“Caravel)
+- [Open Source MPW Test SoC - “Caravel"](#Open-Source-MPW-Test-SoC---“Caravel")
 - [Community designs and tools](#Community-designs-and-tools)
   - [Useful Repos](#Repos)
 - [Jumpstarter Videos](#Jumpstarter-Videos)
 - [Conferences](#Conferences)
+- [FOSSi Foundation Dialup Talk Series](#FOSSi-Foundation-Dialup-Talk-Series)
+- [University Courses and activities](#University-Courses-and-Activities)
 
 ## Join the community
 - [Signup here and we'll send you an invite]( https://join.skywater.tools)
@@ -105,7 +107,7 @@ https://www.linkedin.com/in/mkkassem/detail/recent-activity/shares/ \
 https://www.linkedin.com/in/mike-wishart-81480612/detail/recent-activity/shares/ \
 https://www.linkedin.com/company/efabless-com
 
-## University Courses
+## University Courses and Activities
 * UC Berkeley - OpenLANE Lab - CS 250 Fall 2020 \
 https://inst.eecs.berkeley.edu/~cs250/fa20/ \
 https://inst.eecs.berkeley.edu/~cs250/fa20/labs/lab1/ 
