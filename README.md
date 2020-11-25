@@ -1,24 +1,34 @@
 ## SkyWater / Google / Efabless SKY130 OpenMPW Resources
 
 
+## Contents
+
+- [Join the community](#Join-the-community)
+- [Miscellaneous News Articles](#Miscellaneous-News-Articles)
+- [Open Source MPW Test SoC - “Caravel](#Open-Source-MPW-Test-SoC---“Caravel)
+- [Community designs and tools](#Community-designs-and-tools)
+  - [Useful Repos](#Repos)
+- [Jumpstarter Videos](#Jumpstarter-Videos)
+- [Conferences](#Conferences)
+
 ## Join the community
-https://join.skywater.tools
+- [Signup here and we'll send you an invite]( https://join.skywater.tools)
 
 ## Miscellaneous News Articles
 
-* [Open Source ASICs Take a Giant Leap Forward with the First Ever Open Foundry PDK](https://ef.link/sWXY4)
-* [Google Partners with SkyWater and Efabless to Enable Open Source Manufacturing of Custom ASICs](https://ef.link/TJLAA)
-* [Open Source MPW Program - Skywater Technology](https://ef.link/b00FP)
-* [Efabless - Open Source MPW Shuttle Program](https://ef.link/4WaIo)
-* [Create Free Silicon Chips Courtesy of Google, SkyWater, and Efabless!](https://ef.link/GmSFT)
+- [Open Source ASICs Take a Giant Leap Forward with the First Ever Open Foundry PDK](https://ef.link/sWXY4)
+- [Google Partners with SkyWater and Efabless to Enable Open Source Manufacturing of Custom ASICs](https://ef.link/TJLAA)
+- [Open Source MPW Program - Skywater Technology](https://ef.link/b00FP)
+- [Efabless - Open Source MPW Shuttle Program](https://ef.link/4WaIo)
+- [Create Free Silicon Chips Courtesy of Google, SkyWater, and Efabless!](https://ef.link/GmSFT)
 
 ### Other Articles 
-* https://ef.link/GUAxX 
-* https://ef.link/yML5f 
-* https://ef.link/JOlP9 
-* https://ef.link/SbTsr 
-* https://ef.link/78ajq 
-* https://ef.link/VlLNt
+- https://ef.link/GUAxX 
+- https://ef.link/yML5f 
+- https://ef.link/JOlP9 
+- https://ef.link/SbTsr 
+- https://ef.link/78ajq 
+- https://ef.link/VlLNt
 
 ## Open Source MPW Test SoC - “Caravel"
 
