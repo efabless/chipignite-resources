@@ -63,6 +63,32 @@ https://www.linkedin.com/company/efabless-com
 * https://github.com/mabrains/sky130_ubuntu_setup
 * https://github.com/lakshmi-sathi/avsdpll_1v8
 * https://github.com/mattvenn/multi-project-harness
+* https://github.com/thesourcerer8/caravel-stdcelllib-stdcells.git
+* https://github.com/mattvenn/multi-project-harness.git
+* https://github.com/RAPcores/rapcore_caravel_flow.git
+* https://github.com/fiberhood/MorphleLogic.git
+* https://github.com/asinghani/pifive-caravel
+* https://github.com/dan-rodrigues/caravel-vdp-lite.git
+* https://github.com/PyFive-RISC-V/caravel.git
+* https://github.com/milovanovic/spectravel.git
+* https://github.com/Bryce-Readyhough/UNCC-MPW-Shuttle.git
+* https://github.com/vorixo/RT-PseudoRNG
+* https://github.com/yrrapt/caravel
+* https://github.com/LNIS-Projects/skywater-openfpga
+* https://github.com/merledu/Ghazi
+* https://github.com/HamzaShabbir517/Analog-ARM
+* https://github.com/diegohernando/fulgor-opamp-sky130.git
+* https://github.com/diadatp/caravel.git
+* https://github.com/hadirkhan10/ibtida-soc.git
+* https://github.com/affanabbasi/G_Skywater130nm_1stTO.git
+* https://github.com/0x01be/q-rib.git
+* https://github.com/mballance/fwpayload.git
+* https://github.com/tgingold/OpenTDC.git
+* https://github.com/joelsanchezmoreno/caravel_custom_core.git
+* https://github.com/SweeperAA/skywater130_decred_miner.git
+* https://github.com/harrisonpham/caravel-softshell.git
+* https://github.com/LoesterFranco/caravel-LoesterSoC.git
+* https://github.com/galv/caravel.git
 
 ## Jumpstarter Videos
 1) Open MPW Submission and Caravel Walk-thru -- [video](https://youtu.be/gsbAk2fzmz8)
