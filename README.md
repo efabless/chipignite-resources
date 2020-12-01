@@ -140,7 +140,7 @@ Podcast: https://ef.link/amp-hour
 
 ## University Courses and Activities
 * American University in Cairo - CSCE337 - Digital Design II \
-https://ef.link/B-xKF
+https://ef.link/fTbNC
 * UC Berkeley - OpenLANE Lab - CS 250 Fall 2020 \
 https://inst.eecs.berkeley.edu/~cs250/fa20/ \
 https://inst.eecs.berkeley.edu/~cs250/fa20/labs/lab1/ 
