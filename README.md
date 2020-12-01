@@ -139,7 +139,7 @@ Fabless Chip Design with Mohamed Kassem \
 Podcast: https://ef.link/amp-hour 
 
 ## University Courses and Activities
-* American University in Cairo - CSCE337 - Digital Design II
+* American University in Cairo - CSCE337 - Digital Design II \
 https://ef.link/B-xKF
 * UC Berkeley - OpenLANE Lab - CS 250 Fall 2020 \
 https://inst.eecs.berkeley.edu/~cs250/fa20/ \
