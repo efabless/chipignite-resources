@@ -49,6 +49,7 @@ https://www.linkedin.com/company/efabless-com
 * [VLSI System Design IP](https://www.vlsisystemdesign.com/ip)
 
 ## Useful Repositories
+* https://github.com/shalan/DFFRAM
 * https://github.com/tclarke/sky130radio
 * https://github.com/mkghub/skywater_fd_pr_tree
 * https://github.com/yrrapt/amsat_txrx_ic
