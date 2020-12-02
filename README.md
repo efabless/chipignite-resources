@@ -9,7 +9,7 @@ This is an initial version of this information -  work in progress
 - [LinkedIn Posts](#LinkedIn-Posts)
 - [Open Source MPW Test SoC - Caravel](#Open-Source-MPW-Test-SoC---Caravel)
 - [Community designs and tools](#Community-designs-and-tools)
-  - [Repositories targeting MPW-ONE - The first OpenMPW](#Repositories-targeting-MPW-ONE)
+  - [Repositories targeting Google-funded MPW-ONE](#Repositories-targeting-Google-funded-MPW-ONE)
   - [Useful Repositories](#Useful-Repositories)
 - [Jumpstarter Videos](#Jumpstarter-Videos)
 - [Conferences and Workshops](#Conferences-and-Workshops)
@@ -50,7 +50,7 @@ https://www.linkedin.com/company/efabless-com
 
 * [VLSI System Design IP](https://www.vlsisystemdesign.com/ip)
 
-## Repositories targeting MPW-ONE - The first OpenMPW
+## Repositories targeting Google-funded MPW-ONE
 * https://github.com/thesourcerer8/caravel-stdcelllib-stdcells.git
 * https://github.com/mattvenn/multi-project-harness.git
 * https://github.com/RAPcores/rapcore_caravel_flow.git
