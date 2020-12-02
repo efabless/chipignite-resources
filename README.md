@@ -9,6 +9,7 @@ This is an initial version of this information -  work in progress
 - [LinkedIn Posts](#LinkedIn-Posts)
 - [Open Source MPW Test SoC - Caravel](#Open-Source-MPW-Test-SoC---Caravel)
 - [Community designs and tools](#Community-designs-and-tools)
+  - [Repositories targeting MPW-ONE - The first OpenMPW](#Repositories targeting MPW-ONE)
   - [Useful Repositories](#Useful-Repositories)
 - [Jumpstarter Videos](#Jumpstarter-Videos)
 - [Conferences and Workshops](#Conferences-and-Workshops)
