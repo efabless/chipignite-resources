@@ -49,7 +49,53 @@ https://www.linkedin.com/company/efabless-com
 
 * [VLSI System Design IP](https://www.vlsisystemdesign.com/ip)
 
-## Useful Repositories
+## Repositories targeting MPW-ONE - The first OpenMPW
+* https://github.com/thesourcerer8/caravel-stdcelllib-stdcells.git
+* https://github.com/mattvenn/multi-project-harness.git
+* https://github.com/RAPcores/rapcore_caravel_flow.git
+* https://github.com/fiberhood/MorphleLogic.git
+* https://github.com/asinghani/pifive-caravel
+* https://github.com/dan-rodrigues/caravel-vdp-lite.git
+* https://github.com/PyFive-RISC-V/caravel.git
+* https://github.com/milovanovic/spectravel.git
+* https://github.com/Bryce-Readyhough/UNCC-MPW-Shuttle.git
+* https://github.com/vorixo/RT-PseudoRNG
+* https://github.com/yrrapt/caravel
+* https://github.com/LNIS-Projects/skywater-openfpga
+* https://github.com/merledu/Ghazi
+* https://github.com/HamzaShabbir517/Analog-ARM
+* https://github.com/diegohernando/fulgor-opamp-sky130.git
+* https://github.com/diadatp/caravel.git
+* https://github.com/hadirkhan10/ibtida-soc.git
+* https://github.com/affanabbasi/G_Skywater130nm_1stTO.git
+* https://github.com/0x01be/q-rib.git
+* https://github.com/mballance/fwpayload.git
+* https://github.com/tgingold/OpenTDC.git
+* https://github.com/mabrains/analog-rf-testchip.git
+* https://github.com/shalan/Chameleon_SoC.git
+* https://github.com/miscellaneousbits/caravel_sha3_256_crypto_miner.git
+* https://github.com/shalan/striVe_Plus.git
+* https://github.com/joelsanchezmoreno/caravel_custom_core.git
+* https://github.com/shalan/N5_SoC.git
+* https://github.com/efabless/openfpga.git
+* https://github.com/SweeperAA/skywater130_decred_miner.git
+* https://github.com/harrisonpham/caravel-softshell.git
+* https://github.com/hsc-latte/caravel-hs32core.git
+* https://github.com/LNIS-Projects/skywater-openfpga.git
+* https://github.com/LoesterFranco/caravel-LoesterSoC.git
+* https://github.com/shalan/DFFRAM_Test_Chip.git
+* https://github.com/galv/caravel.git
+* https://github.com/ohAitch/miniflip.git
+* https://github.com/Manarabdelaty/striVe6.git
+* https://github.com/LNIS-Projects/skywater-openfpga.git
+* https://github.com/ax3ghazy/dwarf-on-a-caravel.git
+* https://github.com/nurirfansyah/caravel-ELITS.git
+* https://github.com/asinghani/pifive-caravel.git
+* https://github.com/ucb-cs250/fabric_team.git
+* https://github.com/elektrotehnika/linsorter.git
+* https://github.com/Purdue-SoCET/AFTx06_Public.git
+
+## Other Useful Repositories
 * https://github.com/shalan/DFFRAM
 * https://github.com/tclarke/sky130radio
 * https://github.com/mkghub/skywater_fd_pr_tree
