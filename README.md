@@ -51,6 +51,7 @@ https://www.linkedin.com/company/efabless-com
 * [VLSI System Design IP](https://www.vlsisystemdesign.com/ip)
 
 ## Repositories targeting Google-funded MPW-ONE
+* https://github.com/lnis-uofu/SOFA
 * https://github.com/thesourcerer8/caravel-stdcelllib-stdcells.git
 * https://github.com/mattvenn/multi-project-harness.git
 * https://github.com/RAPcores/rapcore_caravel_flow.git
