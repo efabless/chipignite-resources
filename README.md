@@ -49,6 +49,7 @@ https://www.linkedin.com/company/efabless-com
 ## Community designs and tools
 
 * [VLSI System Design IP](https://www.vlsisystemdesign.com/ip)
+* [DIYChip.org](http://diychip.org)
 
 ## Repositories targeting Google-funded MPW-ONE
 * https://github.com/lnis-uofu/SOFA
@@ -96,6 +97,8 @@ https://www.linkedin.com/company/efabless-com
 * https://github.com/ucb-cs250/fabric_team.git
 * https://github.com/elektrotehnika/linsorter.git
 * https://github.com/Purdue-SoCET/AFTx06_Public.git
+* https://gitlab.com/efabless/designs/microwatt
+* https://github.com/chipsalliance/caravel-swerv-el2
 
 ## Other Useful Repositories
 * https://github.com/shalan/DFFRAM
