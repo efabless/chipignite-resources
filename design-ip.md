@@ -1,9 +1,8 @@
 
 # SkyWater (SKY130) Open Source Program IP Catalog
-## THIS IS A WORK-IN-PROGRESS - will updated for competeness and accuracy
+## THIS IS A WORK-IN-PROGRESS REPO 
 
 # Wanted Open Source IP
-
 
 | IP Description                                             |  Maturity  | Prio  |  Notes                               |
 |------------------------------------------------------------|------------|-------|--------------------------------------|
@@ -317,10 +316,6 @@
 | Zero to ASIC course group submission MPW5           | https://github.com/mattvenn/zero_to_asic_mpw5.git                                |
 | Zero to ASIC course MPW2 re-run                     | https://github.com/mattvenn/zero_to_asic_MPW2_rerun.git                          |
 
-
-
-
-# Another format ... thoughts?
 
 - ## Analog and Analog Mixed Signals (AMS)
 - 
