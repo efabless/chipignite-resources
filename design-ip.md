@@ -1,6 +1,6 @@
 
 # SkyWater (SKY130) Open Source Program IP Catalog
-## THIS IS A WORK-IN-PROGRESS - heavily updated daily for formatting, competeness and and accuracy
+## THIS IS A WORK-IN-PROGRESS - will updated for competeness and accuracy
 
 # Wanted Open Source IP
 
