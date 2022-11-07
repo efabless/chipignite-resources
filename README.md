@@ -1,4 +1,4 @@
-## SkyWater / Google / Efabless SKY130 OpenMPW Resources 
+## chipIgnite and Google Open MPW Resources 
 This is an initial version of this information -  work in progress
 
 
